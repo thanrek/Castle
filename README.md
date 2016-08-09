@@ -8,6 +8,6 @@ Replace the old Park_P.upk with the new one.
 You can play it in Free Play (but sometimes you will spawn outside the map, in this case relaunch the Free Play mode)
 You can play it in Exhibition against bots but there is no goals yet as they are not entirely working (yet).
 
-I strongly advise you to backup your files first.
+<b>I strongly advise you to backup your files first.</b>
 
 Made by Thanrek.
