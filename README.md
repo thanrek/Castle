@@ -1,7 +1,7 @@
 # Castle
 To install :
 
--BACKUP YOUR PARK_P.UPK BEFORE DOING ANYTHING
+<b>-BACKUP YOUR PARK_P.UPK BEFORE DOING ANYTHING</b>
 
 -Download the Castle.zip file aswell as Maptemplates.upk, copy and paste the 5 files (Park_P.upk, meshes.upk, EngineMaterials.upk, Engine_Mi_Shaders.upk and MapTemplates.upk) in your RL directory (C:/Steam/steamapps/common/rocketleague/TAGAme/CookedPCConsole )
 
