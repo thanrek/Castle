@@ -1,14 +1,8 @@
 # Castle
-This is a custom map for Rocket League.
+To install :
 
-To play it, make sure to add all the files from Castle.zip as well as MapTemplates.upk into your RL directory : C:/Steam/steamapps/common/rocketleague/TAGame/CookedPCConsole
+-BACKUP YOUR PARK_P.UPK BEFORE DOING ANYTHING
 
-Replace the old Park_P.upk with the new one.
+-Download the Castle.zip file aswell as Maptemplates.upk, copy and paste the 5 files (Park_P.upk, meshes.upk, EngineMaterials.upk, Engine_Mi_Shaders.upk and MapTemplates.upk) in your RL directory (C:/Steam/steamapps/common/rocketleague/TAGAme/CookedPCConsole )
 
-You can play it in Free Play (but sometimes you will spawn outside the map, in this case relaunch the Free Play mode)
-
-You can play it in Exhibition against bots but there is no goals yet as they are not entirely working (yet).
-
-<b>I strongly advise you to backup your files first.</b>
-
-Made by Thanrek.
+-That's it ! Launch the game and go in FreePlay Mode (you might want to relaunch the mode once or twice in order to correctly spawn on the platform), you can also play the map in Exhibition in 2v2, by setting the map to Beckwith Park. (you can't score goals for now though)
